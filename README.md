@@ -4,7 +4,7 @@
 
 1. [Unity Vuforia SDK - Area Targets](#Unity-Vuforia)  
 2. [Niantic Lightship ARDK - VPS](#Niantic-ARDK)  
-3. [Meta Quest SDK](#Meta Quest)
+3. [Meta Quest SDK](#Meta-Quest)
 
 ---
 
