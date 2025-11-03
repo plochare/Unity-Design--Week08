@@ -2,9 +2,29 @@
 
 ## Agenda
 
-1. [Unity Vuforia SDK - Area Targets](#Unity-Vuforia)  
-2. [Niantic Lightship ARDK - VPS](#Niantic-ARDK)  
-3. [Meta Quest SDK](#Meta-Quest)
+1. [Meta Quest SDK](#Meta-Quest)
+2. [Unity Vuforia SDK - Area Targets](#Unity-Vuforia)  
+3. [Niantic Lightship ARDK - VPS](#Niantic-ARDK)  
+
+---
+
+# 🚀 Meta Quest SDK Getting Started
+
+* Meta Quest Hello World:
+* https://developers.meta.com/horizon/documentation/unity/unity-tutorial-hello-vr/
+
+* Meta Quest All-In-One SDK / Building Blocks:
+https://assetstore.unity.com/packages/tools/integration/meta-xr-all-in-one-sdk-269657
+
+---
+
+# 🚀 Unity OpenXR Templates
+
+* XR Interaction Toolkit 
+* https://docs.unity3d.com/6000.2/Documentation/Manual/xr-meta-quest-packages.html#templates
+
+* XR Learn XR Escape Game Tutorial
+* https://learn.unity.com/course/vr-beginner-the-escape-room?version=2020.3
 
 ---
 
@@ -271,24 +291,4 @@ With Niantic’s ARDK you can:
 * Create **multiplayer shared AR sessions**.
 * Make AR objects behave naturally with occlusion.
 * Deliver persistent, location-based AR apps.
-
----
-
-# 🚀 Meta Quest SDK Getting Started
-
-* Meta Quest Hello World:
-* https://developers.meta.com/horizon/documentation/unity/unity-tutorial-hello-vr/
-
-* Meta Quest All-In-One SDK / Building Blocks:
-https://assetstore.unity.com/packages/tools/integration/meta-xr-all-in-one-sdk-269657
-
----
-
-# 🚀 Unity OpenXR Templates
-
-* XR Interaction Toolkit 
-* https://docs.unity3d.com/6000.2/Documentation/Manual/xr-meta-quest-packages.html#templates
-
-* XR Learn XR Escape Game Tutorial
-* https://learn.unity.com/course/vr-beginner-the-escape-room?version=2020.3
 
